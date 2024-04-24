@@ -1,0 +1,7 @@
+
+.container {
+  display: flex;
+  justify-content: center; /* Alignement horizontal au centre */
+  align-items: center; /* Alignement vertical au centre */
+  height: 100vh; /* Hauteur de la fenêtre visible */
+}
